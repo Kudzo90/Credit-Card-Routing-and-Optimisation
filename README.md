@@ -35,7 +35,7 @@ The dataset used for this project contains detailed information about credit car
 - `success`: The target variable, indicating transaction success (`1`) or failure (`0`).
 ## NB: Most of these columns (features) are derived from the original dataset
 ## OROGINAL DATASET AVAILABILITY
-Due to licensing issues the original data is not made available. However, I've provided a way around this challenge. The `synthetic date generator notebook` added can be used to generate synthetic data for this project.
+Due to licensing issues the original data is not made available. However, I've provided a way around this challenge. The `synthetic data generator notebook` added can be used to generate synthetic data for this project.
 ## Methodology
 
 ### 1. Data Preprocessing
