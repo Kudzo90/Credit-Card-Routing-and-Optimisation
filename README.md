@@ -33,7 +33,9 @@ The dataset used for this project contains detailed information about credit car
 - `card_Master`, `card_Visa`: One-hot encoded card type information.  
 - `hour_sin`, `hour_cos`, `day_sin`, `day_cos`, `month_sin`, `month_cos`, `day_of_week_sin`, `day_of_week_cos`: Cyclical features for time.  
 - `success`: The target variable, indicating transaction success (`1`) or failure (`0`).
-
+## NB: Most of these columns (features) are derived from the original dataset
+## OROGINAL DATASET AVAILABILITY
+Due to licensing issues the original data is not made available. However, I've provided a way around this challenge. The `synthetic date generator notebook` added can be used to generate synthetic data for this project.
 ## Methodology
 
 ### 1. Data Preprocessing
